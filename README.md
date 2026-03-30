@@ -22,13 +22,13 @@ This project demonstrates how to automate basic server configuration using Ansib
 
 ## 📁 Files in This Project
 
-### 1. inventory.ini
+### 1. inventory_file
 Defines the target server
 
 
 ---
 
-### 2. setup.yml
+### 2. inventory_playbook.yml
 Main Ansible playbook
 
 ---
